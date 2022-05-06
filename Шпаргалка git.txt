@@ -1,0 +1,10 @@
+git clone https://github.com/PapirosnikDgin/Huiiii
+PS E:\Univer\GitHub\Huiiii> git add .
+PS E:\Univer\GitHub\Huiiii> git commit -m "SortLab7 "
+PS E:\Univer\GitHub\Huiiii> git push
+git init		 - инициализировать пустой репозиторий
+git add 		 - добавить файлы отслеживания
+git ls-files	      	 - посмотреть список отслеживаемых файлов
+git commit - am  	 - добавить фиксацию. -a(добавить все файлы в фиксацию)
+					      -m(комментарий к фиксации)
+git push
